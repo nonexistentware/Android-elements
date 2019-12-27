@@ -4,21 +4,22 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="250dp"
-    android:background="@android:color/black">
+    android:background="@android:color/white">
 
-    <de.hdodenhof.circleimageview.CircleImageView
+    <ImageView
         android:layout_width="120dp"
         android:layout_height="120dp"
-        android:src="@drawable/ic_account_circle_black_24dp"
+        android:src="@drawable/user"
         android:layout_gravity="left"
         android:layout_marginTop="20dp"
-        android:layout_marginLeft="20dp"/>
+        android:layout_marginLeft="20dp"
+        android:tintMode="@android:color/black"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="User name"
-        android:textColor="@android:color/white"
+        android:textColor="@android:color/black"
         android:textSize="20sp"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"/>
