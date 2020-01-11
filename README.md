@@ -1,14 +1,14 @@
 <b>Android elements</b> - templates to make your app fester
 
 - [Bottom navigatoin bar](https://github.com/nonexistentware/Android-elements/tree/dev1/BottomNavigationBar) 
-- [Staggered recycer view](https://github.com/nonexistentware/Android-elements/tree/dev1/StaggeredRecyclerView) 
+- [Staggered recycler view](https://github.com/nonexistentware/Android-elements/tree/dev1/StaggeredRecyclerView) 
 
 <b>Download subfolder</b>
 Bottom navigatoin bar
 ```
 svn checkout https://github.com/nonexistentware/Android-elements/trunk/BottomNavigationBar
 ```
-Staggered recycer view
+Staggered recycler view
 ```
 svn checkout https://github.com/nonexistentware/Android-elements/trunk/StaggeredRecyclerView
 ```
