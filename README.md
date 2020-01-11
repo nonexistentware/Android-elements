@@ -1,4 +1,4 @@
-<b>Android elements</b> - templates to ceate your app fester
+<b>Android elements</b> - templates to make your app fester
 
 - [Bottom navigatoin bar](https://github.com/nonexistentware/Android-elements/tree/dev1/BottomNavigationBar) 
 - [Staggered recycer view](https://github.com/nonexistentware/Android-elements/tree/dev1/StaggeredRecyclerView) 
