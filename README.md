@@ -4,6 +4,7 @@
 - [Staggered recycler view](https://github.com/nonexistentware/Android-elements/tree/dev1/StaggeredRecyclerView) 
 
 <b>Download subfolder</b>
+</br>
 Bottom navigatoin bar
 ```
 svn checkout https://github.com/nonexistentware/Android-elements/trunk/BottomNavigationBar
