@@ -2,6 +2,7 @@
 
 - [Bottom navigatoin bar](https://github.com/nonexistentware/Android-elements/tree/dev1/BottomNavigationBar) 
 - [Staggered recycler view](https://github.com/nonexistentware/Android-elements/tree/dev1/StaggeredRecyclerView) 
+- [Vertical Veiw Pager](https://github.com/nonexistentware/Android-elements/edit/dev1/VerticalViewPager/README.md)
 
 <b>Download subfolder</b>
 </br>
@@ -12,6 +13,10 @@ svn checkout https://github.com/nonexistentware/Android-elements/trunk/BottomNav
 Staggered recycler view
 ```
 svn checkout https://github.com/nonexistentware/Android-elements/trunk/StaggeredRecyclerView
+```
+Vertical View Pager
+```
+svn checkout https://github.com/nonexistentware/Android-elements/trunk/VerticalViewPager/README.md
 ```
 
 <b>Download hole project</b>
