@@ -16,7 +16,7 @@ svn checkout https://github.com/nonexistentware/Android-elements/trunk/Staggered
 ```
 Vertical View Pager
 ```
-svn checkout https://github.com/nonexistentware/Android-elements/trunk/VerticalViewPager/README.md
+svn checkout https://github.com/nonexistentware/Android-elements/trunk/VerticalViewPager
 ```
 
 <b>Download hole project</b>
