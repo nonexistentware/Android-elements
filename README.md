@@ -2,7 +2,7 @@
 
 - [Bottom navigatoin bar](https://github.com/nonexistentware/Android-elements/tree/dev1/BottomNavigationBar) 
 - [Staggered recycler view](https://github.com/nonexistentware/Android-elements/tree/dev1/StaggeredRecyclerView) 
-- [Vertical Veiw Pager](https://github.com/nonexistentware/Android-elements/edit/dev1/VerticalViewPager/README.md)
+- [Vertical Veiw Pager](https://github.com/nonexistentware/Android-elements/edit/dev1/VerticalViewPager)
 
 <b>Download subfolder</b>
 </br>
