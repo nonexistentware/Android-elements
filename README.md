@@ -19,7 +19,7 @@ Vertical View Pager
 svn checkout https://github.com/nonexistentware/Android-elements/trunk/VerticalViewPager
 ```
 
-<b>Download hole project</b>
+<b>Download whole project</b>
 ```
 git clone https://github.com/nonexistentware/Android-elements.git
 ```
